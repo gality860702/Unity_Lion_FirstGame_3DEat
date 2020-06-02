@@ -1,0 +1,16 @@
+{
+"companyName": "3D_GAME",
+"productName": "3D吃豆人",
+"productVersion": "0.1",
+"dataUrl": "WEB.data.unityweb",
+"wasmCodeUrl": "WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FF80C4",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
